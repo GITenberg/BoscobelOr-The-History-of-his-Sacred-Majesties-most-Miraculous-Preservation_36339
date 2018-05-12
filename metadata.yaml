@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38214'
     url: http://www.gutenberg.org/2009/agents/38214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36339#BoscobelOr-The-History-of-his-Sacred-Majesties-most-Miraculous-Preservation
 gutenberg_issued: '2011-06-06'
 gutenberg_type: Text
 identifiers:
