@@ -1,0 +1,28 @@
+_repo: BoscobelOr-The-History-of-his-Sacred-Majesties-most-Miraculous-Preservation_36339
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36339-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blount, Thomas
+    birthdate: 1618
+    deathdate: 1679
+    gutenberg_agent_id: '38214'
+    url: http://www.gutenberg.org/2009/agents/38214
+description: ''
+gutenberg_issued: '2011-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Charles II, King of England, 1630-1685 -- Early works to 1800'
+- !lcsh 'Boscobel (England) -- Early works to 1800'
+title: "Boscobel\r\nOr, The History of his Sacred Majesties most Miraculous Preservation\
+  \ After the Battle of Worcester, 3. Sept. 1651"
+url: http://www.gutenberg.org/ebooks/36339
